@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.572,G:\Delphi\Project1.dproj=E:\Projekte\tools\dbaseDLL\dbaseTools.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,E:\Projekte\tools\dbaseDLL\Unit1.pas=E:\Projekte\tools\dbaseDLL\dbStringUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,=E:\Projekte\tools\dbaseDLL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
